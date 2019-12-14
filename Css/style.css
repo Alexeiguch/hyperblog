@@ -19,7 +19,9 @@ body {
 	padding: 0.5em;
 	font-weight: bold;
 	font-size: 25px;
-	box-shadow: 0 2px 40px 0 rgba(0,0,0,0.75);
+	-webkit-box-shadow: 15px 10px 22px -3px rgba(23,20,23,0.81);
+	-moz-box-shadow: 15px 10px 22px -3px rgba(23,20,23,0.81);
+	box-shadow: 15px 10px 22px -3px rgba(23,20,23,0.81);
 	width: 80%;
 }
 
