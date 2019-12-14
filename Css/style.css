@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	font-family: 'Times New Roman';
-	color: rgb(10,150,208);
+	font-weight: bold;
 }
 
 #imagen {
@@ -9,4 +9,22 @@ body {
 	width: 80%;
 	margin-left: 400px;
 	margin-right: auto;
+}
+
+#cabecera {
+	background: #33A;
+	color: white;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 0.5em;
+	font-weight: bold;
+	font-size: 25px;
+	box-shadow: 0 2px 40px 0 rgba(0,0,0,0.75);
+	width: 80%;
+}
+
+#cabecera #tag {
+	color: white;
+	font-weight: normal;
+	padding: 0 0 0 1em;
 }
