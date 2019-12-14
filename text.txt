@@ -1,6 +1,6 @@
 Este es mi primer proyecto de programacion en Git y GitHub
 
-Soy Alexei, tengo 19 anios y vivo en Uruguay.
+Soy Alexei, tengo 19 anios y vivo en Brasil.
 Gracias Platziii!!
 
 Adios.
