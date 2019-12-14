@@ -1,5 +1,12 @@
 body {
 	text-align: center;
-	font-family: 'Arial';
-	color: rgb(120,15,158);
+	font-family: 'Times New Roman';
+	color: rgb(10,150,208);
+}
+
+#imagen {
+	height: 60%;
+	width: 80%;
+	margin-left: 400px;
+	margin-right: auto;
 }
