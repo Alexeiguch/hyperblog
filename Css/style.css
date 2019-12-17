@@ -11,8 +11,10 @@ h3 {
 }
 
 #imagen {
+
 	height: 300px;
 	width: 710px;
+
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -35,4 +37,13 @@ h3 {
 	color: white;
 	font-weight: normal;
 	padding: 0 0 0 1em;
+}
+
+#footer {
+	background-color: grey;
+	color: white;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
 }
